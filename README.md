@@ -2,10 +2,13 @@
 
 Integrantes:
 - Julián Biscak 1207235
+![Foto Julian](imagenes/julian.png)
 - Camila Albala 1215437
 - Thiago Cura 1209523
 - Federico Martinez
 - Juan Ignacio Amalvy
+
+
 
 Expectativas:
 - Aprender y profundizar conocimientos en Java para poder desempeñarnos como profesionales de la carrera
