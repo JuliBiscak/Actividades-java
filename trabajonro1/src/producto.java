@@ -1,4 +1,5 @@
 public class producto {
     int codigo=10;
-    String
+    String nombre="fede";
+    int precio=100;
 }
