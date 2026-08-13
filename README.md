@@ -7,7 +7,7 @@ Integrantes:
   - Aprender y profundizar conocimientos en Java para poder desempeñarnos como profesionales de la carrera
 
 - Camila Albala 1215437
-<img src="imagenes/cami.png" width="150">
+<img src="imagenes/cami.jpeg" width="150">
   Expectativas:
   - Espero de esta materia poder profundizar mis conocimientos en Java y aprender a programar de una forma más ordenada y profesional. También espero poder trabajar mejor en equipo, usar herramientas como GitHub y aplicar lo que aprendamos en proyectos más cercanos a situaciones reales
 - Thiago Cura 1209523
