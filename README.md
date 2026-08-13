@@ -11,7 +11,8 @@ Integrantes:
   Expectativas:
   - Espero de esta materia poder profundizar mis conocimientos en Java y aprender a programar de una forma más ordenada y profesional. También espero poder trabajar mejor en equipo, usar herramientas como GitHub y aplicar lo que aprendamos en proyectos más cercanos a situaciones reales
 - Thiago Cura 1209523
-- Federico Martinez 118199
+- Federico Martinez 1128199
+- <img src="imagenes/fede.jpeg" width="150">
 - Juan Ignacio Amalvy
 
 
