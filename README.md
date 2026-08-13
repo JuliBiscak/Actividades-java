@@ -2,7 +2,7 @@
 
 Integrantes:
 - Julián Biscak 1207235
-![Foto Julian](imagenes/julian.png)
+<img src="imagenes/julian.png" width="150">
 - Camila Albala 1215437
 - Thiago Cura 1209523
 - Federico Martinez
