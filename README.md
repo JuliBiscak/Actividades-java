@@ -3,15 +3,30 @@
 Integrantes:
 - Julián Biscak 1207235
 <img src="imagenes/julian.png" width="150">
+  Expectativas:
+  - Aprender y profundizar conocimientos en Java para poder desempeñarnos como profesionales de la carrera
+
+
 - Camila Albala 1215437
+<img src="imagenes/cami.jpeg" width="150">
+  Expectativas:
+  - Espero de esta materia poder profundizar mis conocimientos en Java y aprender a programar de una forma más ordenada y profesional. También espero poder trabajar mejor en equipo, usar herramientas como GitHub y aplicar lo que aprendamos en proyectos más cercanos a situaciones reales
+  
+
 - Thiago Cura 1209523
-- Federico Martinez
-- Juan Ignacio Amalvy
+<img src="imagenes/thiago.jpeg" width="150">
+  Expectativa:
+    Son aprender y mejorar mis conocimientos de programacion utilizando java, buscando comprender como funciona el lenguaje y sus herramientas principales con el objetivo de desempeñarlo en el ambito profesional  
+  
+- Federico Martinez 1128199
+<img src="imagenes/fede.jpeg" width="150">
+  Expectativa: 
+    Entender mejor los conocimientos en Java, para poder desempeñarnos como profesionales
 
 
+- Juan Ignacio Amalvy 1194254
 
-Expectativas:
-- Aprender y profundizar conocimientos en Java para poder desempeñarnos como profesionales de la carrera
+
 
 Bitácora:
 13/8 Creamos el archivo y nos presentamos
