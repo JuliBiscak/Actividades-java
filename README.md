@@ -16,8 +16,7 @@ Integrantes:
 - Thiago Cura 1209523
 <img src="imagenes/thiago.jpeg" width="150">
   Expectativa:
-  - Terminar la materia aprendiendo y saber un poco más de Java
-  
+    Son aprender y mejorar mis conocimientos de programacion utilizando java, buscando comprender como funciona el lenguaje y sus herramientas principales con el objetivo de desempeñarlo en el ambito profesional  
   
 - Federico Martinez 1128199
 <img src="imagenes/fede.jpeg" width="150">
