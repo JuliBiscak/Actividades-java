@@ -31,4 +31,5 @@ Integrantes:
 Bitácora:
 13/8 Creamos el archivo y nos presentamos
 13/8 realizamos ejercicio 1 
+18/8 realizo ejercicio 2 y 3
 

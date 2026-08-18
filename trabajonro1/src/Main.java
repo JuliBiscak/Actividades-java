@@ -9,7 +9,10 @@ public class Main {
         p2.ingresarStock(10);
         p2.ingresarStock(7);
         System.out.println("stock nuevo: "+ p2.consultarStock());
-
+        p2.venderProducto(30);
+        System.out.println("quedan: " + p2.consultarStock() + " en stock");
+        p2.venderProducto(4);
+        System.out.println("quedan: " + p2.consultarStock() + " en stock");
 
 
     }

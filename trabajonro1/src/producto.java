@@ -25,5 +25,13 @@ public class producto {
         cantidad = cantidad + ingreso;
     }
 
+    public void venderProducto(int salida){
+        if (salida <= cantidad) {
+            cantidad = cantidad - salida;
+        } else {
+            System.out.println("cantidad insuficiente para vender");
+        }
+    }
+
 
 }
