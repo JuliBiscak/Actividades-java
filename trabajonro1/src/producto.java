@@ -17,6 +17,13 @@ public class producto {
         System.out.println("codigo " + codigo);
         System.out.println("cantidad " + cantidad);
     }
+    public int consultarStock(){
+        return cantidad;
+    }
+
+    public void ingresarStock(int ingreso){
+        cantidad = cantidad + ingreso;
+    }
 
 
 }

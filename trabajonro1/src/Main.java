@@ -5,7 +5,10 @@ public class Main {
         p1.mostrardatos();
         System.out.println("--");
         p2.mostrardatos();
-        System.out.println("--");
+        System.out.println("stock disponible: "+ p2.consultarStock());
+        p2.ingresarStock(10);
+        p2.ingresarStock(7);
+        System.out.println("stock nuevo: "+ p2.consultarStock());
 
 
 
