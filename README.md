@@ -29,8 +29,8 @@ Integrantes:
 
 
 Bitácora:
-13/8 Creamos el archivo y nos presentamos
-13/8 realizamos ejercicio 1 
-18/8 realizo ejercicio 2 y 3
-27/8 Ejercicio 1 y 2 de la clase
+- 13/8 Creamos el archivo y nos presentamos 
+- 13/8 realizamos ejercicio 1 
+- 18/8 realizo ejercicio 2 y 3 
+- 27/8 Clase 4: Ejercicios del 1 al 5
 
