@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Grupo Progra.iml" filepath="$PROJECT_DIR$/.idea/Grupo Progra.iml" />
       <module fileurl="file://$PROJECT_DIR$/clase 3/clase 3.iml" filepath="$PROJECT_DIR$/clase 3/clase 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clase 5/clase 5.iml" filepath="$PROJECT_DIR$/clase 5/clase 5.iml" />
       <module fileurl="file://$PROJECT_DIR$/clase4/clase4.iml" filepath="$PROJECT_DIR$/clase4/clase4.iml" />
       <module fileurl="file://$PROJECT_DIR$/trabajonro1/trabajonro1.iml" filepath="$PROJECT_DIR$/trabajonro1/trabajonro1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
     </modules>
   </component>
 </project>
